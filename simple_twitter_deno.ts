@@ -1,6 +1,6 @@
 import StreamParser from "./parser.ts";
 import { Credentials } from "./models.ts"
-import { deepAssign as merge } from "https://deno.land/std/_util/deep_assign.ts";
+import { deepAssign as merge } from "https://deno.land/std@0.157.0/_util/deep_assign.ts";
 // Package version
 const VERSION = 0.1;
 
